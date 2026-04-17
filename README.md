@@ -40,7 +40,7 @@ Ao abrir o programa, ele automaticamente:
 | Voltar à biblioteca | `voltar` ou `v` |
 
 ### 4. Exemplo de Uso Rápido
-<img src="https://www.image2url.com/r2/default/images/1776367922011-ee979ba0-a6ab-4136-8708-19d4ad9598de.png">
+<img src="[https://www.image2url.com/r2/default/images/1776367922011-ee979ba0-a6ab-4136-8708-19d4ad9598de.png](https://imgur.com/a/Mt4d6d9)">
 
 ## Tecnolgias usadas
 
@@ -96,7 +96,7 @@ When you open the program, it automatically:
 | Back to library | `voltar` or `v` |
 
 ### 4. Quick Usage Example
-<img src="https://www.image2url.com/r2/default/images/1776367922011-ee979ba0-a6ab-4136-8708-19d4ad9598de.png">
+<img src="[https://www.image2url.com/r2/default/images/1776367922011-ee979ba0-a6ab-4136-8708-19d4ad9598de.png](https://imgur.com/a/Mt4d6d9)">
 
 ## Technologies Used
 
