@@ -31,6 +31,7 @@ facilitando o gerenciamento de histórias complexas.
 - Mysql Workbench
 
 ## Idealização do projeto
+https://canva.link/lo0wjbpg2crmfyc
 
 ### Autores: João Claudio & Rodrigo C. Machado
 
